@@ -29,8 +29,11 @@ A fast-paced Flutter game with Firebase integration, leaderboard system, and in-
 ---
 
 ## 📸 Screenshots
+<img width="471" height="835" alt="image" src="https://github.com/user-attachments/assets/5244db95-8828-4887-aa8c-0075d3ba2792" />
+<img width="479" height="825" alt="image" src="https://github.com/user-attachments/assets/6c106e95-c79a-4471-88a4-eb39890d338b" />
+<img width="466" height="833" alt="image" src="https://github.com/user-attachments/assets/e81396de-21a5-4f78-9c60-4a8bf0e2ac1f" />
 
-(Add your game screenshots here)
+
 
 ---
 
