@@ -1,4 +1,7 @@
 # 🎮 Meme Slasher
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-orange)
+![Platform](https://img.shields.io/badge/Android-green)
 
 A fast-paced Flutter game with Firebase integration, leaderboard system, and in-app update functionality.
 
