@@ -24,7 +24,7 @@ A fast-paced Flutter game with Firebase integration, leaderboard system, and in-
 
 ## 📥 Download APK
 
-[Download Latest Version]((https://www.dropbox.com/scl/fi/so2t3ths5e6h1p1xres1j/app-release.apk?rlkey=bawpowjkdv41n5ecz3zog904z&st=resrui7o&dl=1))
+[Download Latest Version](https://www.dropbox.com/scl/fi/so2t3ths5e6h1p1xres1j/app-release.apk?rlkey=bawpowjkdv41n5ecz3zog904z&st=resrui7o&dl=1)
 
 ---
 
