@@ -1,0 +1,39 @@
+name: ninja_game
+description: Ninja Face Slash Game
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  provider: ^6.1.1
+  audioplayers: ^6.0.0
+  url_launcher: ^6.2.5
+  google_fonts: ^6.2.1
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  shared_preferences: ^2.3.2
+  package_info_plus: ^8.0.0
+  firebase_messaging: ^15.1.0
+  flutter_local_notifications: ^17.2.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/audio/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
