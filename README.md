@@ -29,6 +29,7 @@
 * 🔔 Push notifications (Firebase)
 * 📲 In-app update system
 * 🎥 Tutorial guide
+* Porper Sound Management
 
 ---
 
@@ -37,6 +38,7 @@
 * Flutter (Dart)
 * Firebase (Firestore + FCM)
 * Provider (State Management)
+
 
 ---
 
